@@ -48,6 +48,10 @@ The Survey module supports end-to-end survey lifecycle management for HR teams a
 - `app/Services/Survey/ImpulseTemplateService.php`
 - `app/Services/Survey/ImpulseService.php`
 
+## Workers Backend Stack
+
+For a compact technical overview of the source Workers backend stack (runtime, dependencies, infrastructure, and workflow), see [STACK.md](STACK.md).
+
 ## Repository Structure
 
 The extraction preserves the original layer-oriented structure for easier navigation:
